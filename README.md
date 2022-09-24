@@ -1,1 +1,1 @@
-# Python-Class---Coding-Intro
+# Python-Class---Coding-Intro/Course
